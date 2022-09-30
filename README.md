@@ -11,12 +11,11 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 
-## Caso queira entrar em contato comigo ✉️ :
+![Bernardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Bernardo-Mattos&show_icons=true&theme=radical)
+
+Entre em contato comigo ✉️ :
 
 
 [![gmai](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardo_ritzel_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-augusto-08868220b/)
-
-
-![Bernardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Bernardo-Mattos&show_icons=true&theme=radical)
