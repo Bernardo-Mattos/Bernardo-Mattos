@@ -13,7 +13,7 @@
 
 ![Bernardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Bernardo-Mattos&show_icons=true&theme=radical)
 
-Entre em contato comigo ✉️ :
+## Entre em contato comigo ✉️ :
 
 
 [![gmai](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
