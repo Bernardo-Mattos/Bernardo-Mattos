@@ -1,5 +1,5 @@
 #  Opa eai 🤓 ! Prazer me chamo Bernardo Augusto...
-### Atualmente estou atuando na areá do FrontEnd. Porém estou me dedicando para ser um Dev FullStack🖖🏻
+### Atualmente estou atuando na área do FrontEnd. Porém estou me dedicando para ser um Dev FullStack🖖🏻
 <br>
 
 ## Essas são algmas das tecnologias que uso em meu dia-a-dia 👾 :
