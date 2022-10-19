@@ -3,10 +3,7 @@
  <h1>Prazer me chamo Bernardo Augusto 👋</h1>
   
  <img height="190em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Mattos&theme=dark&show_icons=true&count_private=true&include_all_commits&border_radius=10%&locale=pt-br&exclude_repo=Portfolio-SENAI"/>
-  
-<img height="190em" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&theme=dark&custom_title=Minhas%20linguagens!&border_radius=10%&locale=pt-br&layout=compact&langs_count=9&hide=jupyter%20notebook&exclude_repo=Portfolio-SENAI"/>
-
- 
+ <img height="190em" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&theme=dark&custom_title=Minhas%20linguagens!&border_radius=10%&locale=pt-br&layout=compact&langs_count=9&hide=jupyter%20notebook&exclude_repo=Portfolio-SENAI"/> 
 </div>
 
 #
@@ -25,7 +22,9 @@
  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
  <img height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 
-#
+<br>
+<br>
+<br>
 
 </div>
 
@@ -44,3 +43,6 @@
  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
  </a>
 </div>
+
+
+#
