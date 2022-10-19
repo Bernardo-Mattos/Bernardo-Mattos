@@ -2,9 +2,11 @@
  
  <h1>Prazer me chamo Bernardo Augusto 👋</h1>
   
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bernardo-Mattos&show_icons=true&theme=dark)](https://github.com/Bernardo-Mattos/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ <img height="190em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Mattos&theme=dark&show_icons=true&count_private=true&include_all_commits&border_radius=10%&locale=pt-br&exclude_repo=Portfolio-SENAI"/>
+  
+<img height="190em" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&theme=dark&custom_title=Minhas%20linguagens!&border_radius=10%&locale=pt-br&layout=compact&langs_count=9&hide=jupyter%20notebook&exclude_repo=Portfolio-SENAI"/>
 
+ 
 </div>
 
 #
