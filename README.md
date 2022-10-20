@@ -1,9 +1,9 @@
 <div align="center">
  
- <h1>Prazer me chamo Bernardo Augusto 👋</h1>
-  <br>
- <img height="190em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Mattos&theme=dark&show_icons=true&count_private=true&include_all_commits&border_radius=10%&locale=pt-br&exclude_repo=Portfolio-SENAI"/>
- <img height="190em" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&theme=dark&custom_title=Minhas%9linguagens!&border_radius=10%&locale=pt-br&layout=compact&langs_count=20&hide=jupyter%20notebook&exclude_repo=Portfolio-SENAI"/> 
+<h1>Prazer me chamo Bernardo Augusto 👋</h1>
+<br>
+<img height="190em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Mattos&theme=dark&show_icons=true&count_private=true&include_all_commits&border_radius=10%&locale=pt-br&exclude_repo=Portfolio-SENAI"/>
+<img height="190em" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&theme=dark&custom_title=Minhas%9linguagens!&border_radius=10%&locale=pt-br&layout=compact&langs_count=20&hide=jupyter%20notebook&exclude_repo=Portfolio-SENAI"/> 
 </div>
 
 
