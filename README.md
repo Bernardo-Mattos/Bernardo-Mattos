@@ -4,7 +4,7 @@
 <br>
 <img height="180em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Mattos&theme=dark&show_icons=true&count_private=true&include_all_commits&hide_border=true&border_radius=10%&locale=pt-br&exclude_repo=Portfolio-SENAI"/>
   
-<img height="180em" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&theme=dark&custom_title=%20linguagens!&hide_border=true&border_radius=10%&locale=pt-br&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=Portfolio-SENAI"/>
+<img height="180em" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&theme=dark&custom_title=%9linguagens!&hide_border=true&border_radius=10%&locale=pt-br&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=Portfolio-SENAI"/>
 </div>
 
 
