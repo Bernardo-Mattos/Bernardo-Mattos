@@ -3,7 +3,7 @@
 <h1>Prazer me chamo Bernardo Augusto 👋</h1>
 <br>
 <img height="160em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Mattos&theme=dark&show_icons=true&count_private=true&include_all_commits&hide_border=true&border_radius=10%&locale=pt-br&exclude_repo=Portfolio-SENAI&include_all_commits=true"/>
-<img height="160em" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&langs_count=9&layout=compact&theme=dark&hide_border=true&custom_title=Minhas%20linguagens!&exclude_repo=Portfolio-senai">
+<img height="160em" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&langs_count=8&layout=compact&theme=dark&hide_border=true&custom_title=Minhas%20linguagens!&exclude_repo=Portfolio-senai">
 
 
 
