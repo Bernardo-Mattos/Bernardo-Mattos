@@ -27,16 +27,16 @@
 
 <div align="center">
  <h2>Entre em contato comigo:</h2>
- <a herf="https://www.linkedin.com/in/bernardo-augusto-08868220b/">
+ <a href="https://www.linkedin.com/in/bernardo-augusto-08868220b/">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
- <a herf="https://mail.google.com/mail/u/0/#inbox">
+ <a href="https://mail.google.com/mail/u/0/#inbox">
     <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
- <a herf="https://discord.com/channels/@me">
+ <a href="https://discord.com/channels/@me">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
  </a>
- <a herf="https://twitter.com/be_kkj">
+ <a href="https://twitter.com/be_kkj">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
  </a>
 </div>
