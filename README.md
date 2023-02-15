@@ -6,7 +6,7 @@
 <img height="160em" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&langs_count=8&layout=compact&theme=dark&hide_border=true&custom_title=Minhas%20linguagens!&exclude_repo=Portfolio-senai">
 
 <div align="center">
- <h2>Tecnologias:</h2>
+ <h2>Tecnologias</h2>
 </div>
 <br>
 <div align="center">
@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
- <h2>Entre em contato comigo:</h2>
+ <h2>Entre em contato comigo</h2>
  <a href="https://www.linkedin.com/in/bernardo-augusto-08868220b/">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
