@@ -5,8 +5,6 @@
 <img height="160em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Mattos&show_icons=true&count_private=true&include_all_commits&hide_border=true&border_radius=10%&locale=pt-br&theme=dark"/>
 <img height="160em" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&langs_count=8&layout=compact&theme=dark&hide_border=true&custom_title=Minhas%20linguagens!&exclude_repo=Portfolio-senai">
 
-
-
 <div align="center">
  <h2>Tecnologias:</h2>
 </div>
@@ -30,18 +28,15 @@
 <div align="center">
  <h2>Entre em contato comigo:</h2>
  <a herf="https://www.linkedin.com/in/bernardo-augusto-08868220b/">
- <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
  <a herf="https://mail.google.com/mail/u/0/#inbox">
- <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
  <a herf="https://discord.com/channels/@me">
- <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
  </a>
  <a herf="https://twitter.com/be_kkj">
- <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
  </a>
 </div>
-
-
-
