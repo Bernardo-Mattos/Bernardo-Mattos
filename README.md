@@ -1,6 +1,6 @@
 <div align="center">
  
-<img height="100%" width="1000" src="https://user-images.githubusercontent.com/113487013/231319579-b0d906a2-f747-4992-9307-aeeacba4c86e.png" alt="Foto cabeçalho Readme"> 
+<img border-radius="10px" height="100%" width="1000" src="https://user-images.githubusercontent.com/113487013/231319579-b0d906a2-f747-4992-9307-aeeacba4c86e.png" alt="Foto cabeçalho Readme"> 
 <br>
 <img height="160em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Mattos&show_icons=true&count_private=true&include_all_commits&hide_border=true&border_radius=10%&locale=pt-br&theme=dark"/>
 <img height="160em" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&langs_count=8&layout=compact&theme=dark&hide_border=true&custom_title=Minhas%20linguagens!&exclude_repo=Portfolio-senai">
