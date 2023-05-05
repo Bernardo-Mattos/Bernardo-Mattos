@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EEEEE&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EEEEE&height=200&section=header"/>
 <p align="center">
  <a href="https://github.com/Bernardo-Mattos/readme-typing-svg ">
   <img src="https://readme-typing-svg.demolab.com/?lines=Bernardo%20Mattos&center=true&width=440&height=45&color=ffff&vCenter=true&pause=100&size=30" /></a>
