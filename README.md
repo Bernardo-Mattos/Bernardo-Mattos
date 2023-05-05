@@ -1,14 +1,17 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EEEEE&height=120&section=header"/>
 <p align="center">
  <a href="https://github.com/Bernardo-Mattos/readme-typing-svg ">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Bernardo%20Mattos&center=true&width=440&height=45&color=ffff&vCenter=true&pause=1000&size=22" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Bernardo%20Mattos&center=true&width=440&height=45&color=ffff&vCenter=true&pause=100&size=30" /></a>
 </p>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Mattos&show_icons=true&count_private=true&hide_border=true&title_color=EEEEEE&icon_color=EEEEEE&text_color=EEEEEE&bg_color=000000" alt="Bernardo Mattos GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&layout=compact&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&bg_color=000000" />
+</div>
 
 <div align="center" >
 
- <img border-radius="10px" height="100%" width="100%" src="https://user-images.githubusercontent.com/113487013/231319579-b0d906a2-f747-4992-9307-aeeacba4c86e.png" alt="Foto cabeçalho Readme"> 
-<br>
-<br>
- 
+ <img border-radius="10px" height="100%" width="100%" src="https://user-images.githubusercontent.com/113487013/231319579-b0d906a2-f747-4992-9307-aeeacba4c86e.png" alt="Foto cabeçalho Readme">  
 <div align="center">
    <img alt="Gráfico" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bernardo-Mattos&theme=dark"/>
 </div>
