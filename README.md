@@ -3,7 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Bernardo%20Mattos&center=true&width=440&height=45&color=ffff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<div align="center">
+<div align="center" >
+
  <img border-radius="10px" height="100%" width="100%" src="https://user-images.githubusercontent.com/113487013/231319579-b0d906a2-f747-4992-9307-aeeacba4c86e.png" alt="Foto cabeçalho Readme"> 
 <br>
 <br>
