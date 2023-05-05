@@ -5,8 +5,8 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Mattos&show_icons=true&count_private=true&hide_border=true&title_color=EEEEEE&icon_color=EEEEEE&text_color=EEEEEE&bg_color=000000" alt="Bernardo Mattos GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&layout=compact&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&bg_color=000000" />
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Mattos&show_icons=true&count_private=true&hide_border=true&title_color=EEEEEE&icon_color=EEEEEE&text_color=EEEEEE&bg_color=000000" alt="Bernardo Mattos GitHub Stats" /> 
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&layout=compact&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&bg_color=000000" />
 </div>
 
 <div align="center" >
