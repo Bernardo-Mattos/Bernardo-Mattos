@@ -9,11 +9,8 @@
   <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&layout=compact&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&bg_color=000000" />
 </div>
 
-<div align="center" >
-
- <img border-radius="10px" height="100%" width="100%" src="https://user-images.githubusercontent.com/113487013/231319579-b0d906a2-f747-4992-9307-aeeacba4c86e.png" alt="Foto cabeçalho Readme">  
 <div align="center">
-   <img alt="Gráfico" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bernardo-Mattos&theme=dark"/>
+   <img alt="Gráfico" width="91%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bernardo-Mattos&theme=dark"/>
 </div>
  
 <div align="center" >
