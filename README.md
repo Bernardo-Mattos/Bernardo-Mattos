@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://github.com/Bernardo-Mattos/readme-typing-svg">
+ <a href="https://github.com/Bernardo-Mattos/readme-typing-svg ">
   <img src="https://readme-typing-svg.demolab.com/?lines=Bernardo%20Mattos&center=true&width=440&height=45&color=ffff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
@@ -13,7 +13,7 @@
    <img alt="Gráfico" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bernardo-Mattos&theme=dark"/>
 </div>
  
-<div align="center">
+<div align="center" >
  <h2>Tecnologias</h2>
 </div>
 <br>
