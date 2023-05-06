@@ -20,7 +20,7 @@
 </div>
 
 <br>
-<br>
+
 
 <div align="center">  
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Mattos&show_icons=true&count_private=true&hide_border=true&title_color=EEEEEE&icon_color=EEEEEE&text_color=EEEEEE&bg_color=000000" alt="Bernardo Mattos GitHub Stats" /> 
