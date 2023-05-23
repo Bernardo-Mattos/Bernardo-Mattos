@@ -27,9 +27,6 @@
   <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&layout=compact&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&bg_color=000000" />
 </div>
 
-
- 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bernardo-Mattos&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
    <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bernardo-Mattos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
