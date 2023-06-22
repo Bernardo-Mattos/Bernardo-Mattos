@@ -14,20 +14,21 @@
  <a href="https://discord.com/channels/@me">
   <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
  </a>
- <a href="https://twitter.com/be_kkj">
-  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
- </a>
+
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-Mattos&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<div align="center">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Mattos&show_icons=true&count_private=true&hide_border=true&title_color=EEEEEE&icon_color=EEEEEE&text_color=EEEEEE&bg_color=000000" alt="Bernardo Mattos GitHub Stats" /> 
-  <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&layout=compact&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&bg_color=000000" />
+<div align="center" display='flex' align-itens='center'>
+ 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+   
 </div>
 
- 
+
    <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bernardo-Mattos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
