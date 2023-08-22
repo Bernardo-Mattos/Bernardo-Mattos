@@ -19,8 +19,12 @@
  </a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-Mattos&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div display="flex">
+ 
+![Bernardo-Mattos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bernardo-Mattos&theme=shades-of-purple&hide_border=true)
 
+![Bernardo-Mattos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
+</div>
  <h2>Tech Skills</h2>
  
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
