@@ -21,18 +21,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-Mattos&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<div align="center">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Mattos&show_icons=true&count_private=true&hide_border=true&title_color=EEEEEE&icon_color=EEEEEE&text_color=EEEEEE&bg_color=000000" alt="Bernardo Mattos GitHub Stats" /> 
-  <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Mattos&layout=compact&langs_count=9&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&bg_color=000000" />
-</div>
-
- 
-   <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bernardo-Mattos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
  <h2>Tech Skills</h2>
  
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
