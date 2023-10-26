@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EEEEE&height=200&section=header"/>
 <p align="center">
- <a href="https://github.com/Bernardo-Mattos/readme-typing-svg ">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Bernardo%20Mattos&center=true&width=440&height=45&color=ffff&vCenter=true&pause=100&size=30" /></a>
+ 
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Bernardo+Mattos;FullStack+-+Dev;Studing+PHP+and+Laravel" alt="Typing SVG" /></a>
+
 </p>
 
 <div align="center">
