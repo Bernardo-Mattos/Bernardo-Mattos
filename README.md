@@ -49,9 +49,6 @@
 
 
  <h2>Startups 🚀</h2>
- <a href="https://inova-senai.github.io/siteMyBrain/?fbclid=PAAaavth03GN-V71kaxvb_xLKg0l5C-ywo11tIk_3ySsaPE2LHyW0ENImkypE">MyBrain</a>
- <p>Startup voltada para desenvolvimento de soluções tecnologicas para a área da saúde com, foco em ajudar pessoas portadoras de epilepsia por meio de soluções tecnologias. Atualmente pré-incubada <a href="https://inaitec.com.br/">Inaitec</a> Pedra Branca Palhoça - SC</p>
- <br>
  <a href="https://instagram.com/vempra_car?igshid=MWZjMTM2ODFkZg==">VemPraCar</a>
  <p>Fundada em um StartupWeekend (Biguaçu), desenvolvemos e montamos uma startup em um fim de semana. Trazemos facilidade no transporte e locomoção, podendo encontrar e agendar caronas fixas e constantes.</p>
 
