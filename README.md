@@ -1,55 +1,45 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EEEEE&height=200&section=header"/>
-<div align="center">
+# Hello, I'm Bernardo 👋
+
+## About Me
+
+I am a Software Development Technologist currently pursuing a Bachelor's degree in Software Engineering. I have a passion for solving problems and creating innovative solutions through technology.
+
+From Santa Catarina, <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="14"> Brasil!
+
+## Education
+
+- **Technologist in Software Development** - Escola S (Sesi Senai)
+- **Bachelor's in Software Engineering** - Estácio, currently enrolled (2/8)
+
+## Work
+
+Currently working in <a href="https://www.grupodva.com.br/">DVA - Group</a> as a Junior Developer, I've gained hands-on experience with Laravel. I've worked in any projects where I've:
+
+- Developed and maintained web applications, following the MVC architecture pattern.
+- Implemented RESTful APIs and integrated them with frontend frameworks.
+- Utilized Eloquent ORM for efficient database interactions and performed database migrations.
+- Ensured application security by implementing authentication and authorization features.
+- Worked with Blade templating engine to create dynamic and reusable UI components.
+- Collaborated with a team using Git for version control and participated in code reviews.
+
+My experience with Laravel has strengthened my understanding of backend development, best practices, and the importance of clean, maintainable code. I'm continuously exploring new features and staying updated with the latest advancements in the Laravel ecosystem.
  
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Bernardo+Mattos;FullStack+-+Dev;Studing+PHP+and+Laravel" alt="Typing SVG" /></a>
+</br>
+ 
+## 📦 Toolbox
 
-</div>
+**Frontend Development:** `CSS` `Bootstrap` `React.js` `JavaScrip` `JQuery`
 
-<div align="center">
- <a href="https://www.linkedin.com/in/bernardo-augusto-08868220b/">
-  <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- </a>
- <a href="https://mail.google.com/mail/u/0/#inbox">
-  <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
- </a>
- <a href="https://discord.com/channels/@me">
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
- </a>
- <a href="https://twitter.com/be_kkj">
-  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
- </a>
-</div>
+**Backend Development:** `Laravel` `PHP` `Java`
 
-<div>
-  <h2>Tech Skills 👾</h2>
+**Database and ORM:** `PostgreSQL` `MySQL` `MariaDB` `Oracle`
+ 
+**Version Control:** `Git` `GitHub` 
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+**Others:** `Postman` `VsCode`
+ 
+</br>
 
-  <div width="100%">
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Mattos&theme=dark" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bernardo-Mattos&layout=compact&langs_count=9&card_width=50%&theme=dark"/>
-  </a>
-  </div>
-  
-  <h2>Studying 👨🏽‍💻</h2>
-  
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+## 📫 Contact
 
-
- <h2>Startups 🚀</h2>
- <a href="https://instagram.com/vempra_car?igshid=MWZjMTM2ODFkZg==">VemPraCar</a>
- <p>Fundada em um StartupWeekend (Biguaçu), desenvolvemos e montamos uma startup em um fim de semana. Trazemos facilidade no transporte e locomoção, podendo encontrar e agendar caronas fixas e constantes.</p>
-
-</div>
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/bernardo-augusto-08868220b/) or send me an [e-mail](mailto:bernardomtt2@gmail.com).
